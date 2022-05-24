@@ -1,0 +1,14 @@
+- 👋 Hi, my name is Giga and I am from Georgia
+- 👀 Since school I've always loved mathematics and solving complex math problems.
+- At university I studied Business. For data analysis and visualization I used excel, which is a great tool and essential in many jobs.
+- 
+- But there are also programming languages like SQL and Python which make things easier.(for example I used SQL to automate reports at my previous job and it saved a lot of time and energy)
+- I wish I had known about them before, so my skills would have been on another level now.
+- Every day I try to learn something new, improve my skills and build up on my current knowledge.
+- During this process I learn new formulas, techniques and ways to solve various problems.
+- I often iteratee over one dataset for several times and it helps me memorize things more effectively than doing it just once.
+- For me SQL is easier language to learn. It is read just like as English. 
+- I find pyhton more hard to learn(maybe because it comes with multiple libraries like pandas, numpy, matplotlib, seaborn and etc.) but if you dedicate enough time and effort to studying you will attain it.
+- First of all I want to master pandas, matplotlib, numpy. After that I want to study data scraping and machine learning.
+- I will share my works on this platform and hope it will help you too on your way to studing Python and SQL.
+
