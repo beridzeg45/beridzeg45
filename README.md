@@ -5,6 +5,7 @@
 - But there are also programming languages like SQL and Python which make things easier.(for example I used SQL to automate reports at my previous job and it saved a lot of time and energy)
 - I wish I had known about them before, so my skills would have been on another level now.
 - Every day I try to learn something new, improve my skills and build up on my current knowledge.
+- For me the best way of learning is search for datasets on internet and work on it. If I come up a problem which I am not able to solve on my own I search for the same problem and its way of solving or appeal to StackOverflow or other communities with question.
 - During this process I learn new formulas, techniques and ways to solve various problems.
 - I often iteratee over one dataset for several times and it helps me memorize things more effectively than doing it just once.
 - For me SQL is easier language to learn. It is read just like as English. 
