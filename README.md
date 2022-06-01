@@ -10,5 +10,5 @@
 - For me SQL is easier language to learn. It is read just like as English. 
 - I find pyhton more hard to learn(maybe because it comes with multiple libraries like pandas, numpy, matplotlib, seaborn and etc.) but if you dedicate enough time and effort to studying you will attain it.
 - First of all I want to master pandas, matplotlib, numpy. After that I want to study data scraping and machine learning.
-- I will share my works on this platform and hope it will help you too on your way to studing Python and SQL.
+- I will share my works on this platform and hope it will help you too on your way to learning Python and SQL.
 
