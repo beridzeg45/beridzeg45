@@ -6,9 +6,6 @@
 - Every day I try to learn something new, improve my skills and build up on my current knowledge.
 - For me the best way of learning is search for datasets on internet and work on them. If I come up a problem which I am not able to solve on my own I look up the similar problem and way of solving it or appeal to StackOverflow or other communities with question.
 - During this process I learn new formulas, techniques and ways to solve various problems.
-- I often iteratee over one dataset for several times and it helps me to memorize things more efficiently than by doing it just once.
-- For me SQL is easier language to learn. It reads just like English. 
-- I find pyhton more hard to learn(maybe because it comes with multiple libraries and packages like pandas, numpy, datetime, matplotlib, seaborn and etc.)
 - First of all I want to master pandas, matplotlib, numpy. After that I want to study data scraping and machine learning.
 - I will share my works on this platform and hope it will be helpful for you.
 
