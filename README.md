@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Giga. I am from Georgia
+- 👋 Hi, my name is Giorgi(Giga). I am from Georgia
 - 👀 Since school I've always loved mathematics and solving complex math problems.
 - At university I studied Business. For data analysis and visualization I used excel, which is a great tool and essential in many jobs.
 - But there are also programming languages like SQL and Python which make things easier.(For example I used SQL to automate reports at my previous job and it saved a lot of time and energy)
