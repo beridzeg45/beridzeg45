@@ -7,7 +7,6 @@
 - For me the best way of learning is search for datasets on internet and work on them. If I come up a problem which I am not able to solve on my own I look up the similar problem and way of solving it or appeal to StackOverflow or other communities with question.
 - During this process I learn new formulas, techniques and ways to solve various problems.
 - First of all I want to master pandas, matplotlib, numpy. After that I want to study data scraping and machine learning.
-- I will share my works on this platform and hope it will be helpful for you.
 
 
 
