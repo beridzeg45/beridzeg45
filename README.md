@@ -1,4 +1,4 @@
-- 👋 My name is Giorgi(Giga) and I am from Georgia
+- 👋 My name is Giorgi (Giga) and I am from Georgia
 - 👀 Since school, I've always loved mathematics and solving complex math problems.
 - Not a long time ago I was first introduced to SQL and then, Python. Since then, I am certain about my passion, which is coding, data analysis, visualization, and machine learning.
 - I wish I had known about SQL and Python before, so my skills would have been on another level now.
