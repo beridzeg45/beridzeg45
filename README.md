@@ -1,9 +1,8 @@
-- 👋 Hi, my name is Giorgi(Giga). I am from Georgia
-- 👀 Since school I've always loved mathematics and solving complex math problems.
-- At university I studied Business. For data analysis and visualization I used excel, which is a great tool and essential in many jobs.
-- But there are also programming languages like SQL and Python which make things easier.(For example I used SQL to automate reports at my previous job and it saved a lot of time and energy)
-- I wish I had known about them before, so my skills would have been on another level now.
+- 👋 My name is Giorgi(Giga) and I am from Georgia
+- 👀 Since school, I've always loved mathematics and solving complex math problems.
+- Not a long time ago I was first introduced to SQL and then, Python. Since then, I am certain about my passion, which is coding, data analysis, visualization, and machine learning.
+- I wish I had known about SQL and Python before, so my skills would have been on another level now.
 - Every day I try to learn something new, improve my skills and build up on my current knowledge.
-- For me the best way of learning is search for datasets on internet and work on them. If I come up a problem which I am not able to solve on my own I look up the similar problem and way of solving it or appeal to StackOverflow or other communities with question.
+- For me, the best way of learning is search for datasets on internet and work on them. Alternatively, I scrape various data from different websites.
 - During this process I learn new formulas, techniques and ways to solve various problems.
-- First of all I want to master pandas, matplotlib, numpy. After that I want to study data scraping and machine learning.
+- The best thing I love about working with data is how numbers are converted into a story using beautiful graphs.
