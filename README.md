@@ -6,4 +6,4 @@
 - During this process I learn new formulas, techniques and ways to solve various problems.
 - The best thing I love about working with data is how numbers are converted into a story using beautiful graphs.
 
-StackOverflow[https://stackoverflow.com/users/18756733/beridzeg45]
+[StackOverflow][https://stackoverflow.com/users/18756733/beridzeg45]|[Kaggle][https://www.kaggle.com/beridzeg45/datasets]
