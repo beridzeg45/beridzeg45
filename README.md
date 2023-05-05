@@ -1,5 +1,5 @@
 - 👋 My name is Giorgi (Giga) and I am from Georgia
-- 👀 Since school, I love mathematics and solving complex math problems.
+- 👀 I've always loved mathematics and solving complex math problems.
 - Not a long time ago I was first introduced to SQL and then, Python (I wish I had known about them before). Since then, I am certain about my passion, which is coding, data analysis, visualization, and machine learning.
 - Every day I try to learn something new, improve my skills and build up on my current knowledge.
 - For me, the best way of learning is search for datasets on internet and work on them. Alternatively, I scrape various data from different websites.
