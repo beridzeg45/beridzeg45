@@ -21,5 +21,3 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BS4 Logo" width="50" height="50"/>
 
-
-  [Tbilisi Apartment Prices Dashboard Project](http://beridzeg45.pythonanywhere.com/)
