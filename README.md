@@ -4,8 +4,6 @@
 - For me, the best way of learning is search for datasets on internet and work on them. Alternatively, I extract various textual and numerical data from online sources using Python's webscraping tools susch as Selenium and BeautifulSoup. (The sample of my webscraping project results can be found on my [Kaggle Page](https://www.kaggle.com/beridzeg45/datasets))
 - During this process I learn new formulas and techniques to solve various EDA and Web-Scraping problems.
 - The best thing I love about working with data is how numbers are converted into a story using beautiful graphs.
-<!-- This line will be omitted -->
-
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,8 +11,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
-
+<br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
