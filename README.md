@@ -20,6 +20,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-<img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BS4 Logo" width="50" height="50"/>
+<img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BS4 Logo" width="150" height="30"/>
 
 [Tbilisi Apartment Prices Dashboard](http://beridzeg45.pythonanywhere.com/)
