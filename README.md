@@ -4,7 +4,7 @@
 - For me, the best way of learning is search for datasets on internet and work on them. Alternatively, I extract various textual and numerical data from online sources using Python's webscraping tools susch as Selenium and BeautifulSoup. (The sample of my webscraping project results can be found on my [Kaggle Page](https://www.kaggle.com/beridzeg45/datasets))
 - During this process I learn new formulas and techniques to solve various EDA and Web-Scraping problems.
 - The best thing I love about working with data is how numbers are converted into a story using beautiful graphs.
-- 
+  
 - My Personal Project: [Tbilisi Apartment Prices Dashboard](http://beridzeg45.pythonanywhere.com/)
 
 
