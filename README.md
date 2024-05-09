@@ -5,10 +5,10 @@
 - During this process I learn new formulas and techniques to solve various EDA and Web-Scraping problems.
 - The best thing I love about working with data is how numbers are converted into a story using beautiful graphs.
   
-- My Personal Projects:  
+- My Personal Projects:
     
-- [Tbilisi Apartment Prices Dashboard](http://beridzeg45.pythonanywhere.com/)
-- [IMDB Movie Recommendations](https://beridzeg45movies.streamlit.app/)
+-   [Tbilisi Apartment Prices Dashboard](http://beridzeg45.pythonanywhere.com/)
+-   [IMDB Movie Recommendations](https://beridzeg45movies.streamlit.app/)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
