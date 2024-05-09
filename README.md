@@ -27,7 +27,5 @@ My Personal Projects:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-<img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="BS4 Logo" width="150" height="30"/>
-<img src="https://th.bing.com/th/id/R.adb540184fa55c5ab9c840c82c0eb8d1?rik=5OGCPlYUUCN2GQ&riu=http%3a%2f%2fopenpyxl.readthedocs.io%2fen%2fstable%2f_static%2flogo.png&ehk=nKzppja%2f%2bMW8shoTp61QIXcFFKCsRlwBLjno94o6ZMk%3d&risl=&pid=ImgRaw&r=0" alt="BS4 Logo" width="150" height="30"/>
 
 
