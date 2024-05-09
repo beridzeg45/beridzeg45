@@ -7,11 +7,11 @@
 
 <br>
 My Personal Projects:
-<br><br>
+<br>
 [Tbilisi Apartment Prices Dashboard](http://beridzeg45.pythonanywhere.com/)
 <br>
 [IMDB Movie Recommendations](https://beridzeg45movies.streamlit.app/)
-<br>
+<br><br>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
