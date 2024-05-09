@@ -17,7 +17,7 @@ My Personal Projects:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-<img src="https://www.clipartkey.com/mpngs/m/31-319717_power-bi-logo-microsoft-png-power-bi-logo.png" alt="Seaborn Logo" width="150" height="30"/>
+<img src="https://www.clipartkey.com/mpngs/m/31-319717_power-bi-logo-microsoft-png-power-bi-logo.png" alt="Seaborn Logo" width="140" height="28"/>
 
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
