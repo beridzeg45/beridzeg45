@@ -7,7 +7,7 @@
 
 
 My Personal Projects:
-<br>
+<br><br>
 [Tbilisi Apartment Prices Dashboard](http://beridzeg45.pythonanywhere.com/)
 <br>
 [IMDB Movie Recommendations](https://beridzeg45movies.streamlit.app/)
