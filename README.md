@@ -13,6 +13,8 @@ My Personal Projects:
 [IMDB Movie Recommendations](https://beridzeg45movies.streamlit.app/)
 <br>
 [Random Quotes](https://beridzeg45quotes.streamlit.app/)
+<br>
+[USA Housing Market]([https://beridzeg45quotes.streamlit.app/](https://beridzeg45-usa-housing-market-project.streamlit.app/))
 <br><br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
