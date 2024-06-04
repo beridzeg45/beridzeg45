@@ -15,6 +15,8 @@ My Personal Projects:
 [Random Quotes](https://beridzeg45quotes.streamlit.app/)
 <br>
 [USA Housing Market](https://beridzeg45-usa-housing-market-project.streamlit.app/)
+<br>
+[Comparing Country Sizes](https://beridzeg45-comparing-country-sizes.streamlit.app/)
 <br><br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
