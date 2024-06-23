@@ -17,7 +17,7 @@ My Personal Projects:
 [USA Housing Market](https://beridzeg45-usa-housing-market-project.streamlit.app/)
 <br>
 [Comparing Country Sizes](https://beridzeg45-comparing-country-sizes.streamlit.app/)
-<br><br>
+<br>
 [Comparative Analysis of Monthly City Temperatures](https://beridzeg45monthly-temp-by-city.streamlit.app/)
 <br><br>
 
