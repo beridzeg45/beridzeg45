@@ -6,7 +6,7 @@
 - The best thing I love about working with data is how numbers are converted into a story using beautiful graphs.
 
 <br><br>
-My Personal Projects:
+My Personal Projects :
 <br><br>
 [Tbilisi Apartment Prices Dashboard](http://beridzeg45.pythonanywhere.com/)
 <br>
