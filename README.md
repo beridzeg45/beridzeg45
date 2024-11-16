@@ -10,7 +10,7 @@ My Personal Projects :
 <br><br>
 [Tbilisi Apartment Prices Dashboard](http://beridzeg45.pythonanywhere.com/)
 <br>
-[IMDB Movie Recommendations](https://beridzeg45movies.streamlit.app/)
+[IMDB Movie Recommendations](https://advanced-movie-recommendation-system-porject.streamlit.app/)
 <br>
 [Random Quotes](https://beridzeg45quotes.streamlit.app/)
 <br>
