@@ -15,6 +15,8 @@ My Personal Projects :
 [Comparing Country Sizes](https://beridzeg45-comparing-country-sizes.streamlit.app/)
 <br>
 [Comparative Analysis of Monthly City Temperatures](https://beridzeg45monthly-temp-by-city.streamlit.app/)
+<br>
+[Comparative Analysis of Monthly City Temperatures V2](https://beridzeg45appcitytemp.streamlit.app/)
 <br><br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
