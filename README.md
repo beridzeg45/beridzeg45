@@ -14,8 +14,6 @@ My Personal Projects :
 <br>
 [Comparing Country Sizes](https://beridzeg45-comparing-country-sizes.streamlit.app/)
 <br>
-[Comparative Analysis of Monthly City Temperatures](https://beridzeg45monthly-temp-by-city.streamlit.app/)
-<br>
 [Comparative Analysis of Monthly City Temperatures V2](https://beridzeg45appcitytemp.streamlit.app/)
 <br><br>
 
